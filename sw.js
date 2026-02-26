@@ -1,7 +1,7 @@
 // sw.js - Service Worker para Preciosa PWA
 // IMPORTANTE: Cambia CACHE_NAME cada vez que actualices la app
 
-const CACHE_NAME = 'preciosa-v2'; // CAMBIA ESTE NÚMERO (v2, v3, v4...)
+const CACHE_NAME = 'preciosa-v3'; // CAMBIA ESTE NÚMERO (v2, v3, v4...)
 
 // Archivos que se cachearán (opcional, ajusta según necesites)
 const urlsToCache = [
